@@ -4,6 +4,10 @@
 
 The Budget Tracker application is designed to be a progressive web application. The intent is to allow users to track their budgets online and offline. Starter code was provided, but additional work was needed in order to complete incorporation of IndexedDB functionality and adding a service worker. 
 
+## Screenshot
+
+<img src="./public/images/screenshot.jpg" alt="Screenshot of Budget Tracker"/>
+
 ## Installation
 
 In order to install the Budget Tracker application, after downloading the code base and installing the express, mongoose, and also leverages the Heroku app, which will require a MongoDB Atlas Production Database. Once the MongoDB Atlas Production Database has been set up and connected to Heroku, then the application can be deployed to Heroku and functional through the Heroku link. 
