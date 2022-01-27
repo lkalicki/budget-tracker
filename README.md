@@ -6,7 +6,7 @@ The Budget Tracker application is designed to be a progressive web application. 
 
 ## Screenshot
 
-<img src="./public/images/screenshot.jpg" alt="Screenshot of Budget Tracker"/>
+<img src="/public/images/screenshot.jpg" alt="Screenshot of Budget Tracker"/>
 
 ## Installation
 
