@@ -14,7 +14,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
 
-mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost:3001/budget', {
+mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost/budget', {
   useNewUrlParser: true,
   useUnifiedTopology: true
 });
